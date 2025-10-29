@@ -21,6 +21,8 @@ Material UI (Responsive Design)
 Fetch API for data integration
 
 CSS Flexbox/Grid for layout
+
+
 📂 Folder Structure
 src/
 │
